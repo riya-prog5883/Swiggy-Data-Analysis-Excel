@@ -1,12 +1,12 @@
-# Swiggy Data Analysis & Interactive Dashboard Using Excel
+# 📊 Swiggy Data Analysis & Interactive Dashboard Using Excel
 
-## Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing Swiggy food-ordering data using Microsoft Excel and transforming the dataset into meaningful business insights through data cleaning, analysis, visualization, and dashboard development.
 
 The project explores restaurant information, food categories, pricing, customer ratings, locations, and time-based ordering patterns.
 
-##🎯 Objectives
+## 🎯 Objectives
 
 * Analyze Swiggy food-ordering data to identify meaningful patterns.
 * Understand restaurant, city, state, and food-category distribution.
@@ -16,7 +16,7 @@ The project explores restaurant information, food categories, pricing, customer 
 * Create an interactive Excel dashboard for data visualization.
 * Generate actionable insights from the analyzed data.
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Microsoft Excel
 * Pivot Tables
@@ -27,7 +27,7 @@ The project explores restaurant information, food categories, pricing, customer 
 * Data Analysis
 * Data Visualization
 
-##📌 Analysis Performed
+## 📌 Analysis Performed
 
 * State-wise distribution
 * City-wise distribution
@@ -48,7 +48,7 @@ The Excel dashboard provides an interactive view of the analyzed Swiggy data usi
 
 ![Swiggy Dashboard](Swiggy_Dashboard.png)
 
-##💡 Key Insights
+## 💡 Key Insights
 
 * Analyzed the distribution of restaurants across different locations.
 * Identified trends in food categories and food types.
@@ -65,7 +65,7 @@ The Excel dashboard provides an interactive view of the analyzed Swiggy data usi
 | `Swiggy_Raw_Data.xlsx`                | Raw dataset                           |
 | `Swiggy_Dashboard.png`                | Dashboard preview                     |
 
-##📍 Skills Demonstrated
+## 📍 Skills Demonstrated
 
 ▪️ Data Cleaning
 ▪️ Data Analysis
