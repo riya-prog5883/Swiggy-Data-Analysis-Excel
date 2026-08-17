@@ -1,6 +1,6 @@
-#📊 Swiggy Data Analysis & Interactive Dashboard Using Excel
+# Swiggy Data Analysis & Interactive Dashboard Using Excel
 
-##📌 Project Overview
+## Project Overview
 
 This project focuses on analyzing Swiggy food-ordering data using Microsoft Excel and transforming the dataset into meaningful business insights through data cleaning, analysis, visualization, and dashboard development.
 
